@@ -1,4 +1,5 @@
 .DS_Store
 .claude/settings.local.json
-reports/*.html
+reports/**/*.html
+reports/**/*.pdf
 !reports/.gitkeep
